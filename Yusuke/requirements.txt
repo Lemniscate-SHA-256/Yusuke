@@ -1,1 +1,7 @@
-
+flask
+numpy
+opencv-python
+tensorflow
+transformers
+Pillow
+pytest
